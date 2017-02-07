@@ -29,3 +29,8 @@ body {
 a:link, a:visited {
   color: aquamarine;
 }
+
+.copyright {
+  color: gray;
+  text-align: right;
+}
