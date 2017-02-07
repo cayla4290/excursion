@@ -1,0 +1,31 @@
+h1, body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+body {
+  font-size: 16px;
+  color: aquamarine;
+  background-color: black;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+body {
+  font-size: 21px;
+  color: gray;
+}
+
+a:link, a:visited {
+  color: aquamarine;
+}
